@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @SpringBootApplication
 public class SbootApplication {
 
+
+
     public static void main(String[] args) {
         SpringApplication.run(SbootApplication.class, args);
     }
